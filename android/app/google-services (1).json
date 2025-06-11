@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33047251784",
+    "project_id": "cool-d709b",
+    "storage_bucket": "cool-d709b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33047251784:android:4c068fa1765360c327817d",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeYs7L-SQZtBQeW2IGQdqaA5hn9rPliZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
